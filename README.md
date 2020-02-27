@@ -1,6 +1,6 @@
 # GA parameter setting GUIDE
 
-# 공통코드 삽입
+## 공통코드 삽입
  페이지의 ```<head>``` 에서 가능한 한 높은 위치에 코드를 붙여넣으세요.
 ```
 <!-- Google Tag Manager -->
