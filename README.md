@@ -1,1 +1,2 @@
-# gatools
+# GA parameter setting GUIDE
+
